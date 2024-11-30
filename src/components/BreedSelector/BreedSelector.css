@@ -1,0 +1,32 @@
+/* Form styling */
+.breed-selector-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 6% 0;
+}
+
+/* Label styling */
+.breed-selector-form label {
+  display: flex;
+  flex-direction: column; 
+  align-items: center; 
+  margin-bottom: 2%; 
+  width: 100%;
+  text-align: center;
+  text-transform: uppercase;
+  gap: 10px;
+}
+
+.breed-selector-form select,
+.breed-selector-form input {
+  width: 30%;
+  padding: 1%;
+  margin-top: .5%; 
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+
+
+  

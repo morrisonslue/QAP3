@@ -1,0 +1,13 @@
+/* Global styles */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: #f9f9f9; 
+  color: #333333; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; 
+}
+
